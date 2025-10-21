@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá! Bem-vindo ao meu perfil 👋
 
-<!--
-**Kaduzin008/Kaduzin008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor apaixonado por tecnologia e estou sempre em busca de novos desafios. Meu foco principal tem sido em Front-End, e estou constantemente aprendendo e aprimorando minhas habilidades nas tecnologias abaixo.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologias
+
+Aqui estão algumas das tecnologias e linguagens com as quais eu trabalho:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=javascript,python,html,css,c,cs,github,nodejs" />
+</p>
+
+---
+
+### Onde me encontrar
+
+- 🔗 **GitHub:** [Meu Perfil no GitHub](https://github.com/Kaduzin008)
