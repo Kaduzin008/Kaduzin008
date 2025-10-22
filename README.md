@@ -12,6 +12,6 @@ Aqui estão algumas das tecnologias e linguagens com as quais eu trabalho:
   <img src="https://skillicons.dev/icons?i=javascript,python,html,css,c,cs,github,nodejs" />
 </p>
 
----
 
-### 
+
+
