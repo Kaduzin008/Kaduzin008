@@ -1,6 +1,6 @@
 # Olá! Bem-vindo ao meu perfil 👋
 
-Sou um desenvolvedor apaixonado por tecnologia e estou sempre em busca de novos desafios. Atualmente, estou no 4º semestre de Analise e Desenvolvimento de Sistemas no IFSP, Campus Campinas. Meu foco principal tem sido em Front-End, e estou constantemente aprendendo e aprimorando minhas habilidades nas tecnologias abaixo.
+Sou um desenvolvedor apaixonado por tecnologia e estou sempre em busca de novos desafios. Atualmente, estou no 5º semestre de Analise e Desenvolvimento de Sistemas no IFSP, Campus Campinas. Meu foco principal tem sido em Front-End, e estou constantemente aprendendo e aprimorando minhas habilidades nas tecnologias abaixo.
 
 ---
 
